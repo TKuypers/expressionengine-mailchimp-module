@@ -36,7 +36,7 @@ return array(
     'author'      		=> 'Expertees',
     'author_url'  		=> 'http://expertees.nl',
     'name'        		=> 'Exp_mailchimp',
-    'description' 		=> 'Let your visitors describe to your Mailchimp list',
+    'description' 		=> 'Let your visitors subscribe to your Mailchimp list',
     'version'     		=> '1.0.0',
     'namespace'   	  	=> 'Exp_mailchimp',
     'settings_exist'  	=> TRUE,
